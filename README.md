@@ -12,8 +12,11 @@ September 10, 2023
 How to use it? There are four files:
 
 'demo': MATLAB script files with the example 1 detailed in [1];
+
 'demo3': MATLAB script files with the example 3 detailed in [1];
+
 'alg2': The Algorithm 2 in [1];
+
 'alg3': The Algorithm 3 in [1];
 
 This version of files was tested using MATLAB R2022a on a Windows 11 machine with the tensor toolbox [2] to proceed tensor computation.
