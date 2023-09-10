@@ -3,6 +3,7 @@ What is it? FNMZ is an algorithm to calculate Z-eigenvalue of symmetric tensor.
 This set of MATLAB files implements the methods described in
 
 [1] J.F. Xu, D.-H. Li, and X.L. Bai, Feasible newton methods for symmetric tensor z-eigenvalue problems, Optimization Methods and Software, 38 (2023), pp. 510–528.
+https://doi.org/10.1080/10556788.2022.2142586.
 
 Kindly report any suggestions or corrections to [xujiefeng@m.scnu.edu.cn]
  
