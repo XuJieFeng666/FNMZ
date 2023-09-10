@@ -9,7 +9,7 @@ Kindly report any suggestions or corrections to [xujiefeng@m.scnu.edu.cn]
 Release date
 September 10, 2023
 
-How to use it? There are three folders that contain:
+How to use it? There are four files:
 
 'demo': MATLAB script files with the example 1 detailed in [1];
 'demo3': MATLAB script files with the example 3 detailed in [1];
